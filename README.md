@@ -1,7 +1,8 @@
 # Substituição de páginas - Memória RAM - Simulador
 
 ## 💻 Projeto
-Sobre...
+Projeto realizado para ser apresentando na matéria de Sistemas Operacionais 1 da Fatec de Mogi Mirim.
+Tem como função ilustrar como um sistema opercional tende a realizar o gerenciamento de memória RAM do sistema.
 <hr/>
 
 
